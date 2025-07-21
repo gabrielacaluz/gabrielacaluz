@@ -1,5 +1,46 @@
 ## Bem-vindo(a) ao perfil da Gabriela Caluz 😁
 
+<p align="center">
+  💜 Desenvolvedora em formação • Amante de tecnologia • Criadora de projetos com propósito
+</p>
+
+---
+
+### ✨ Sobre mim
+
+Sou estudante de Ciência da Computação e apaixonada por transformar ideias em soluções digitais criativas.  
+Atualmente foco nos estudos de **HTML**, **CSS**, **JavaScript** e **lógica de programação**, com o objetivo de me tornar uma desenvolvedora **Front-End** cada vez mais completa.
+
+Aprendo todos os dias e compartilho meus projetos aqui no GitHub, sempre buscando evoluir, escrever códigos limpos e criar interfaces que façam sentido.
+
+---
+
+### 💻 Tecnologias que estou aprendendo:
+
+- 🌐 HTML5, CSS3, JavaScript
+- 💡 Lógica de Programação
+- 🎨 Figma (para prototipagem de interfaces)
+- ⚙️ Git e GitHub (versionamento de código)
+- 📦 Em breve: React e APIs REST
+
+---
+
+### 📁 Projetos em destaque:
+
+🔹 [Projeto RIBELIA](https://gabrielacaluz.github.io/projeto-RIBELIA/) — Loja fictícia com sistema de filtro por categoria e preço  
+🔹 [Projeto Lotus](https://gabrielacaluz.github.io/projeto-Lotus/) — Layout responsivo com foco em experiência do usuário  
+🔹 [Página de Login](https://gabrielacaluz.github.io/Projeto-Login/) — Design moderno com prática de estilização e estruturação
+
+---
+
+### 🌱 Em constante aprendizado...
+
+Acredito que a tecnologia pode mudar vidas, e estou trilhando minha jornada com dedicação, curiosidade e vontade de crescer na área.
+
+<p align="center">
+  Obrigada por visitar meu perfil! Vamos crescer juntas na tecnologia 🚀
+</p>
+
  <div>
    <a href="https://github.com/gabrielacaluz">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielacaluz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
