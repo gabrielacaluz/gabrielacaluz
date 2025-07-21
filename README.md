@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Gabriela Caluz 😁
+<h1 align="center"> Bem-vindo(a) ao perfil da Gabriela Caluz 😁</h1>
 
 <p align="center">
   💜 Desenvolvedora em formação • Amante de tecnologia • Criadora de projetos com propósito
@@ -40,6 +40,8 @@ Acredito que a tecnologia pode mudar vidas, e estou trilhando minha jornada com 
 <p align="center">
   Obrigada por visitar meu perfil! Vamos crescer juntas na tecnologia 🚀
 </p>
+
+---
 
  <div>
    <a href="https://github.com/gabrielacaluz">
