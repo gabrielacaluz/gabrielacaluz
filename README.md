@@ -42,7 +42,7 @@ Acredito que a tecnologia pode mudar vidas, e estou trilhando minha jornada com 
 </p>
 
 ---
-<div align = ""center>
+
    <div>
      <a href="https://github.com/gabrielacaluz">
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielacaluz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -65,4 +65,4 @@ Acredito que a tecnologia pode mudar vidas, e estou trilhando minha jornada com 
     <a href="https://www.linkedin.com/in/gabriela-botini-4b35782a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
   
-</div>
+
