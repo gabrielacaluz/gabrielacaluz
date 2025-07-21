@@ -1,12 +1,12 @@
-<h1 align="center"> Bem-vindo(a) ao perfil da Gabriela Caluz 😁</h1>
+<h1 align="center"> Bem-vindo(a) ao perfil da Gabriela Caluz </h1>
 
 <p align="center">
-  💜 Desenvolvedora em formação • Amante de tecnologia • Criadora de projetos com propósito
+   Desenvolvedora em formação • Amante de tecnologia • Criadora de projetos com propósito
 </p>
 
 ---
 
-### ✨ Sobre mim
+###  Sobre mim
 
 Sou estudante de Ciência da Computação e apaixonada por transformar ideias em soluções digitais criativas.  
 Atualmente foco nos estudos de **HTML**, **CSS**, **JavaScript** e **lógica de programação**, com o objetivo de me tornar uma desenvolvedora **Front-End** cada vez mais completa.
@@ -15,17 +15,17 @@ Aprendo todos os dias e compartilho meus projetos aqui no GitHub, sempre buscand
 
 ---
 
-### 💻 Tecnologias que estou aprendendo:
+###  Tecnologias que estou aprendendo:
 
-- 🌐 HTML5, CSS3, JavaScript
-- 💡 Lógica de Programação
-- 🎨 Figma (para prototipagem de interfaces)
-- ⚙️ Git e GitHub (versionamento de código)
-- 📦 Em breve: React e APIs REST
+-  HTML5, CSS3, JavaScript
+-  Lógica de Programação
+-  Figma (para prototipagem de interfaces)
+- ⚙ Git e GitHub (versionamento de código)
+-  Em breve: React e APIs REST
 
 ---
 
-### 📁 Projetos em destaque:
+###  Projetos em destaque:
 
 🔹 [Projeto RIBELIA](https://gabrielacaluz.github.io/projeto-RIBELIA/) — Loja fictícia com sistema de filtro por categoria e preço  
 🔹 [Projeto Lotus](https://gabrielacaluz.github.io/projeto-Lotus/) — Layout responsivo com foco em experiência do usuário  
@@ -33,7 +33,7 @@ Aprendo todos os dias e compartilho meus projetos aqui no GitHub, sempre buscand
 
 ---
 
-### 🌱 Em constante aprendizado...
+###  Em constante aprendizado...
 
 Acredito que a tecnologia pode mudar vidas, e estou trilhando minha jornada com dedicação, curiosidade e vontade de crescer na área.
 
