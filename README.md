@@ -20,7 +20,7 @@ Aprendo todos os dias e compartilho meus projetos aqui no GitHub, sempre buscand
 -  HTML5, CSS3, JavaScript
 -  Lógica de Programação
 -  Figma (para prototipagem de interfaces)
-- ⚙ Git e GitHub (versionamento de código)
+-  Git e GitHub (versionamento de código)
 -  Em breve: React e APIs REST
 
 ---
