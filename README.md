@@ -48,7 +48,7 @@ Acredito que a tecnologia pode mudar vidas, e estou trilhando minha jornada com 
    <div>
      <a href="https://github.com/gabrielacaluz">
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielacaluz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielacaluz&layout=compact&langs_count=6&theme=tokyonight"/>
+     <img height="180em" src="https://img.shields.io/github/languages/top/:user/:repo"/>
   </div>
     
   <div style="display: inline_block"><br>
