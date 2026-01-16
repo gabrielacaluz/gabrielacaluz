@@ -18,7 +18,9 @@ Aprendo todos os dias e compartilho meus projetos aqui no GitHub, sempre buscand
 ###  Tecnologias que estou aprendendo:
 
 -  HTML5, CSS3, JavaScript
+-  linguagens de programação(Python, JavaScript, C)
 -  Lógica de Programação
+-  Banco de Dados (SQL)
 -  Figma (para prototipagem de interfaces)
 -  Git e GitHub (versionamento de código)
 -  Em breve: React e APIs REST
