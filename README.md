@@ -55,7 +55,7 @@ Acredito que a tecnologia pode mudar vidas, e estou trilhando minha jornada com 
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div>
  <div>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+    <a href= "https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true">
  </div>
   <br>
  
